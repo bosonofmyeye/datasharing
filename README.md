@@ -1,4 +1,4 @@
-### This file was forked by Koneenica Majumder
+### This file was forked
 
 How to share data with a statistician
 ===========
